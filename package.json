@@ -1,5 +1,4 @@
-{
-  "homepage": "https://dii-gineer.github.io/Planeador-presupuesto/",
+{ "homepage": "https://dii-gineer.github.io/Planeador-presupuesto/",
   "name": "gasto-semanal",
   "version": "0.1.0",
   "private": true,
