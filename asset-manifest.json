@@ -1,14 +1,14 @@
 {
-  "main.css": "/dii-gineer/Planeador-presupuesto/static/css/main.0f476d73.chunk.css",
-  "main.js": "/dii-gineer/Planeador-presupuesto/static/js/main.ac8d8371.chunk.js",
-  "main.js.map": "/dii-gineer/Planeador-presupuesto/static/js/main.ac8d8371.chunk.js.map",
-  "static/js/1.168c889c.chunk.js": "/dii-gineer/Planeador-presupuesto/static/js/1.168c889c.chunk.js",
-  "static/js/1.168c889c.chunk.js.map": "/dii-gineer/Planeador-presupuesto/static/js/1.168c889c.chunk.js.map",
-  "runtime~main.js": "/dii-gineer/Planeador-presupuesto/static/js/runtime~main.a6a70595.js",
-  "runtime~main.js.map": "/dii-gineer/Planeador-presupuesto/static/js/runtime~main.a6a70595.js.map",
-  "static/media/App.css": "/dii-gineer/Planeador-presupuesto/static/media/budget.0936a1c0.jpg",
-  "static/css/main.0f476d73.chunk.css.map": "/dii-gineer/Planeador-presupuesto/static/css/main.0f476d73.chunk.css.map",
-  "index.html": "/dii-gineer/Planeador-presupuesto/index.html",
-  "precache-manifest.701057e2ae0901f8c863c88f7a869718.js": "/dii-gineer/Planeador-presupuesto/precache-manifest.701057e2ae0901f8c863c88f7a869718.js",
-  "service-worker.js": "/dii-gineer/Planeador-presupuesto/service-worker.js"
+  "main.css": "/Planeador-presupuesto/static/css/main.3638de6e.chunk.css",
+  "main.js": "/Planeador-presupuesto/static/js/main.667aa14c.chunk.js",
+  "main.js.map": "/Planeador-presupuesto/static/js/main.667aa14c.chunk.js.map",
+  "static/js/1.168c889c.chunk.js": "/Planeador-presupuesto/static/js/1.168c889c.chunk.js",
+  "static/js/1.168c889c.chunk.js.map": "/Planeador-presupuesto/static/js/1.168c889c.chunk.js.map",
+  "runtime~main.js": "/Planeador-presupuesto/static/js/runtime~main.a6d3b125.js",
+  "runtime~main.js.map": "/Planeador-presupuesto/static/js/runtime~main.a6d3b125.js.map",
+  "static/media/App.css": "/Planeador-presupuesto/static/media/budget.0936a1c0.jpg",
+  "static/css/main.3638de6e.chunk.css.map": "/Planeador-presupuesto/static/css/main.3638de6e.chunk.css.map",
+  "index.html": "/Planeador-presupuesto/index.html",
+  "precache-manifest.601006a50a0cf725ffad891881360841.js": "/Planeador-presupuesto/precache-manifest.601006a50a0cf725ffad891881360841.js",
+  "service-worker.js": "/Planeador-presupuesto/service-worker.js"
 }

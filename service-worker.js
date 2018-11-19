@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dii-gineer/Planeador-presupuesto/precache-manifest.701057e2ae0901f8c863c88f7a869718.js"
+  "/Planeador-presupuesto/precache-manifest.601006a50a0cf725ffad891881360841.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dii-gineer/Planeador-presupuesto/index.html", {
+workbox.routing.registerNavigationRoute("/Planeador-presupuesto/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
