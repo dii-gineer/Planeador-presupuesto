@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dii-gineer/gasto-semanal/precache-manifest.677f658ea4d09840f680b5cdb9fb3743.js"
+  "/dii-gineer/Planeador-presupuesto/precache-manifest.701057e2ae0901f8c863c88f7a869718.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dii-gineer/gasto-semanal/index.html", {
+workbox.routing.registerNavigationRoute("/dii-gineer/Planeador-presupuesto/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

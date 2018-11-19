@@ -1,14 +1,14 @@
 {
-  "main.css": "/dii-gineer/gasto-semanal/static/css/main.c06cb464.chunk.css",
-  "main.js": "/dii-gineer/gasto-semanal/static/js/main.1a01d858.chunk.js",
-  "main.js.map": "/dii-gineer/gasto-semanal/static/js/main.1a01d858.chunk.js.map",
-  "static/js/1.168c889c.chunk.js": "/dii-gineer/gasto-semanal/static/js/1.168c889c.chunk.js",
-  "static/js/1.168c889c.chunk.js.map": "/dii-gineer/gasto-semanal/static/js/1.168c889c.chunk.js.map",
-  "runtime~main.js": "/dii-gineer/gasto-semanal/static/js/runtime~main.d23caf22.js",
-  "runtime~main.js.map": "/dii-gineer/gasto-semanal/static/js/runtime~main.d23caf22.js.map",
-  "static/media/App.css": "/dii-gineer/gasto-semanal/static/media/budget.0936a1c0.jpg",
-  "static/css/main.c06cb464.chunk.css.map": "/dii-gineer/gasto-semanal/static/css/main.c06cb464.chunk.css.map",
-  "index.html": "/dii-gineer/gasto-semanal/index.html",
-  "precache-manifest.677f658ea4d09840f680b5cdb9fb3743.js": "/dii-gineer/gasto-semanal/precache-manifest.677f658ea4d09840f680b5cdb9fb3743.js",
-  "service-worker.js": "/dii-gineer/gasto-semanal/service-worker.js"
+  "main.css": "/dii-gineer/Planeador-presupuesto/static/css/main.0f476d73.chunk.css",
+  "main.js": "/dii-gineer/Planeador-presupuesto/static/js/main.ac8d8371.chunk.js",
+  "main.js.map": "/dii-gineer/Planeador-presupuesto/static/js/main.ac8d8371.chunk.js.map",
+  "static/js/1.168c889c.chunk.js": "/dii-gineer/Planeador-presupuesto/static/js/1.168c889c.chunk.js",
+  "static/js/1.168c889c.chunk.js.map": "/dii-gineer/Planeador-presupuesto/static/js/1.168c889c.chunk.js.map",
+  "runtime~main.js": "/dii-gineer/Planeador-presupuesto/static/js/runtime~main.a6a70595.js",
+  "runtime~main.js.map": "/dii-gineer/Planeador-presupuesto/static/js/runtime~main.a6a70595.js.map",
+  "static/media/App.css": "/dii-gineer/Planeador-presupuesto/static/media/budget.0936a1c0.jpg",
+  "static/css/main.0f476d73.chunk.css.map": "/dii-gineer/Planeador-presupuesto/static/css/main.0f476d73.chunk.css.map",
+  "index.html": "/dii-gineer/Planeador-presupuesto/index.html",
+  "precache-manifest.701057e2ae0901f8c863c88f7a869718.js": "/dii-gineer/Planeador-presupuesto/precache-manifest.701057e2ae0901f8c863c88f7a869718.js",
+  "service-worker.js": "/dii-gineer/Planeador-presupuesto/service-worker.js"
 }
