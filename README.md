@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Planeador de Presupesto 
 Mini app desarrollada con react para planear el presupesto semanal. 
-Puedes ver el codigo en master branch o la app en acción aqui =>  https://dii-gineer.github.io/Planeador-presupuesto/
+Puedes ver el codigo en master branch o la app en acción aqui =>  https://morrafronteriza.github.io/Planeador-presupuesto/
 
 Nuevas versiones proximamente.
 
